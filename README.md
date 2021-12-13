@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hello 👋, I'm Om Bhandari :-)
-I am Studying in Global Nature Care Sangathan Group Of Institute
+##I am Studying in Global Nature Care Sangathan Group Of Institute
 
 <!--
 **om-bhandari-29/om-bhandari-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
